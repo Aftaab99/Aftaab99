@@ -5,7 +5,6 @@
 <p>
   <em>
     Hey there! I am a final year undergraduate from <a href="https://www.dsce.edu.in/"> <b>Dayananda Sagar College of Engineering</b>, Bangalore</a>. <br>
-    I mostly work on Machine learning projects and Mobile and Web applications. 
     <br>
     Here are my best repositories. Thanks for stopping by!
    </em>
