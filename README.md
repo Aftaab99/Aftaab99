@@ -4,7 +4,7 @@
 
 <p>
   <em>
-    Hey there! I am a final year undergraduate from <a href="https://www.dsce.edu.in/"> <b>Dayananda Sagar College of Engineering</b>, Bangalore</a>. <br>
+    Hey there! I am a backend web developer and mostly work with NodeJs, Python and Java. <br>
     <br>
     Here are my best repositories. Thanks for stopping by!
    </em>
@@ -28,7 +28,7 @@
 <br>
 
 
-![Satyam's github stats](https://github-readme-stats.vercel.app/api?username=Aftaab99&count_private=true&show_icons=true&theme=radical&include_all_commits=true)
+![Aftaab's github stats](https://github-readme-stats.vercel.app/api?username=Aftaab99&count_private=true&show_icons=true&theme=radical&include_all_commits=true)
 
 <br>
 
